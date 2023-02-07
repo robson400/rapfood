@@ -1,0 +1,12 @@
+npx create-react-app delivery
+cd delivery
+npm start
+
+Ctrl + C
+Parei a aplicação
+cls
+
+INSTALACAO DE BIBLIOTECAS
+npm install react-router-dom
+npm install axios
+
